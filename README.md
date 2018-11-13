@@ -1,4 +1,4 @@
-# monte_calo_PI
+# Approximation PI value with monte carlo method
 
 ## Example of calculating the approximation of the PI value with the monte carlo method
 
