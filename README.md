@@ -7,5 +7,6 @@ if x2 + y2 <1 the point M (x, y) belongs to the quarter disc of radius 1. and is
 The probability of obtaining a blue dot is equal to the ratio of the areas of the quarter disc of radius 1 and the square of side 1.
 It is therefore π / 4.
 
-# Picture off the simulation
+## Picture off the simulation
+
 ![alt text](./monte_carlo.png)
